@@ -1,1 +1,1 @@
-# LabControl
+Laboratorio de control
