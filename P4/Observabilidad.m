@@ -1,2 +1,2 @@
 P=obsv(A,C);
-rank(P);
+rank(P)
